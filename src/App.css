@@ -1,0 +1,30 @@
+/* .buttonStyle{
+ top: 50%;
+ left: 50%;
+ position: absolute;
+ margin-top: 10px;
+ transform: translate(-50%, -50%);
+}
+*/
+
+.buttonStyle{
+ display: flex;
+ justify-content: space-between;
+ margin: 10px auto;
+} 
+
+.container1{
+  top: 50%;
+ left: 50%;
+ position: absolute;
+ margin-top: 10px;
+ transform: translate(-50%, -50%);
+ border: 2px solid rgb(196, 181, 181);
+ box-shadow: 11px 11px 6px lightblue;
+ /* width: 300px; */
+ padding: 80px;
+ 
+}
+
+
+
